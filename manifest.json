@@ -1,0 +1,25 @@
+{
+ "name": "SUN-Tour-App",
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
+ "description": "Skyline University Tour App.  Developed by Ahmad Idris",
+ "icons": [
+  {
+   "type": "image/png",
+   "sizes": "512x512",
+   "src": "icons/icon512.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "192x192",
+   "src": "icons/icon192.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "64x64",
+   "src": "icons/icon64.png"
+  }
+ ],
+ "display": "fullscreen"
+}
